@@ -8,7 +8,7 @@ Estarei mostrando de forma pratica este passo a passo até sua publicação na I
 
 Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g)
 
-![Teste](https://github.com/evertonulisystem/avaliacao-aluno/blob/master/assets/LogoGotasDeTecnologia.png) 
+![Teste](https://github.com/evertonulisystem/assets/blob/main/Tela01.PNG) 
 
 # Features implementadas 
 * Cadastro de Alunos
