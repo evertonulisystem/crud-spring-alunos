@@ -3,8 +3,8 @@
 
 # Sobre o projeto
 
-Este projeto em Spring, não visa ser uma API, onde o objetivo prinipal, foi de demonstrar o essencial do Spring MVC com spring Boot, atuando no entendimento correto dos pacotes , entity , controller, reposistory, service e suas implementações.
-Estarei mostrando de forma pratica este passo a passo até sua publicação na Internet.
+Este projeto em Spring, não visa ser uma API, onde o objetivo principal, foi de demonstrar o essencial do Spring MVC com spring Boot, atuando no entendimento correto dos pacotes , entity , controller, reposistory, service e suas implementações.
+Estarei mostrando de forma pratica este passo a passo até sua publicação na Internet, com Heroku.
 
 Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g)
 
