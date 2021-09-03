@@ -35,7 +35,7 @@ Maiores detalhes visite canal Oficial: https://www.youtube.com/channel/UCv68KoK1
 
 ```  
 # Agradecimentos
-Amigos, inscritos, visitante em gera.
+Amigos, inscritos, visitante em geral.
 
 Se foi útil deixe uma STAR.
 
