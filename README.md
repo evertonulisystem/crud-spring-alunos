@@ -29,6 +29,8 @@ Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](h
 :bowtie:
 Everton Ulisses de Mendonça
 
+# Heroku: https://crud-spring-alunos.herokuapp.com/alunos
+
 https://www.linkedin.com/in/evertonuli
 
 Maiores detalhes visite canal Oficial: https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g e assista a playlist.
